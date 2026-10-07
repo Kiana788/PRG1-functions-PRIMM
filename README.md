@@ -60,3 +60,6 @@ python activity-1-temperature-converter/temperature_converter.py
 
 If `python` is not recognised, use `python3` instead.
 
+Activity 5 (return versus print): prediction, the None explanation, and the fix (add return a + b)
+Activity 6 (scope): why value stays 5, the "two papers in different rooms" explanation, and the parameterized version of show_message
+Activity 7 (broken functions): the three faults identified (None from the missing return, the wrong subtraction in apply_discount, and the swapped arguments in the call) plus the fixed file producing 20, 60.0, and 25.0

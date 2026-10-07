@@ -20,3 +20,10 @@ def show_message():
 
 show_message()
 print(message)
+
+def show_message(text):
+    print(text)
+
+
+show_message("outside")
+show_message("anything at all")

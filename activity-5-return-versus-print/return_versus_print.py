@@ -16,3 +16,7 @@ print(first)
 print(second)
 
 print(add_and_return(2, 3) * 10)
+
+def add_and_print(a, b):
+    print(a + b)
+    return a + b
